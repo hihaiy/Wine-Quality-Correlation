@@ -1,4 +1,4 @@
-# Wine-Quality-Data
+# Wine Quality Data Analysis
 
 **Answering these Questions**
 
